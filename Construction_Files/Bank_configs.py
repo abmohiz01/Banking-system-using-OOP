@@ -60,3 +60,5 @@ class BankAccount:
 My_account = BankAccount(12)
 My_account.deposit(1234456)
 My_account.view_balance()
+My_account.withdraw(4456)
+My_account.view_balance()
